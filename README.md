@@ -1,5 +1,5 @@
 <br clear="both">
-<h1>ALUNO = Nathan Ribeiro Gonçalves 20191bsi0363 </h1> 
+<h1>Nathan Ribeiro Gonçalves 20191bsi0363 </h1> 
 <h6 align="left">Esse é um repositório para fins academicos, onde serão armazenado tarefas da disciplina de Linguagem de Marcação Web do curso de Bacharel de Sistema de Informações do Instituto Federal do Espirito Santo (IFES)</h6>
 
 ###
