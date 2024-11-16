@@ -1,0 +1,25 @@
+.contato{
+    background-color: #D8EDE8;
+    text-align: left;
+}
+.centro{
+    text-align: center;
+}
+h2{
+    background-color:hsl(231, 88%, 68%);
+}
+p{
+    font-family: Verdana;
+}
+ol{
+    list-style-type: upper-alpha;
+}
+
+.subdiv{
+    background-color: #fcf4dd;
+
+}
+h2:hover{
+    background-color: #a5527c;
+
+}
