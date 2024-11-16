@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Trade+Winds&display=swap');
+
+body{
+    background-color:#3F401E;
+}
+.container{
+    background-color:#FFFFFF;
+    width: 960px;
+    margin: auto;
+}
+header{
+    text-align: center;
+    background-color: #C1D4DA;
+    font-family: "Trade Winds", system-ui;
+    font-optical-sizing: auto;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+}
+footer{
+    background-color: #C1D4DA;
+}
+a{
+    color: rgb(98, 14, 109);
+    text-decoration: none;
+}
+#tam{
+    width: 960px;
+}
+table{
+    text-align: center;
+    height: 400px;
+    border: 2px solid;
+    margin: auto;
+}
+.imgtbl{
+    border-radius: 25px;
+    width: 100%;
+}
+th{
+    text-align: left;
+    vertical-align: middle;
+    border-bottom-width: 1px;
+    border-bottom: solid;
+    border-bottom-color:#ddd;
+    padding: 10px;
+}
+td{
+    text-align: left;
+    vertical-align: middle;
+    border-bottom-width: 1px;
+    border-bottom: solid;
+    border-bottom-color:#ddd;
+    padding: 10px;
+}  
+tr:hover{
+    background-color:#F3EAE5;
+}
+input[type=text], input[type=tel], textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(98, 14, 109);
+    border-radius: 4px;
+    resize: none;
+}
+input[type=text]:focus, input[type=tel]:focus,textarea:focus{
+    background-color: #ADD8E6;
+}
